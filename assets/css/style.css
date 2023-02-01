@@ -22973,7 +22973,7 @@ button:focus {
   background: rgba(10, 11, 15, 0.9);
 }
 .navbar-stick .navbar-brand img {
-  max-height: 2.2rem;
+  /* max-height: 2.2rem; */
   width: auto;
 }
 .navbar-bg {
@@ -23285,7 +23285,7 @@ figure.overlay img {
 .glightbox-clean .gdesc-inner .gslide-title {
   margin: 0;
 }
-.glightbox-clean .gdesc-inner .gslide-title+.gslide-desc {
+.glightbox-clean .gdesc-inner .gslide-title.gslide-desc {
   margin-top: 0.3rem;
 }
 .glightbox-clean .gdesc-inner .gslide-title,
