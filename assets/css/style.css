@@ -21957,6 +21957,11 @@ button:focus {
     font-size: 1.3rem;
   }
 }
+@media (max-width: 767.98px){
+  .divka{
+    display: block;
+  }
+}
 @media (max-width: 767.98px) {
   .navbar-expand-md .navbar-brand {
     padding-top: 0.85rem;
@@ -23300,6 +23305,7 @@ figure.overlay img {
     top: 50%;
   }
 }
+
 .gbtn.focused {
   outline: none;
 }
