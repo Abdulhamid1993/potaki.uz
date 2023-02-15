@@ -555,6 +555,11 @@ progress {
     max-width: 720px;
   }
 }
+@media (min-width: 768px) {
+  .display-1{
+    margin-top: 150px;
+  }
+}
 @media (min-width: 992px) {
   .container-lg,
   .container-md,
